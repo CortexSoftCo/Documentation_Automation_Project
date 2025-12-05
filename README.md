@@ -2,6 +2,14 @@
 
 > **Automated document generation powered by voice or text commands**
 
+## ⚠️ Security Notice
+
+**This workflow contains placeholder values for API credentials.** Before importing into N8N:
+1. Replace all `YOUR_*_HERE` placeholders with your actual credentials
+2. Use N8N's credential management system instead of hardcoding values
+3. Never commit files containing real API keys or tokens
+4. Review the `.env.example` file for required credentials
+
 ## 🎯 Overview
 
 This project is an intelligent documentation automation system that allows users to create comprehensive documents ranging from 10 to 200 pages through simple voice or text commands. The system leverages AI to brainstorm, structure, and generate complete documents with embedded media, storing them in a modular format on GitHub.
